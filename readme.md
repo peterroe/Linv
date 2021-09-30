@@ -3,7 +3,7 @@
  * @Author: 林舒恒
  * @Date: 2021-09-30 11:33:51
  * @LastEditors: 林舒恒
- * @LastEditTime: 2021-09-30 19:52:57
+ * @LastEditTime: 2021-09-30 20:27:09
 -->
 ## What is Lin?
 
@@ -12,7 +12,7 @@
 ## Usage
 
 ```js
-new Lin({
+new Linv({
     el: '#app',
     data: {
         name: 'Peter Roe',

@@ -3,9 +3,9 @@
  * @Author: 林舒恒
  * @Date: 2021-09-30 12:04:07
  * @LastEditors: 林舒恒
- * @LastEditTime: 2021-09-30 19:48:49
+ * @LastEditTime: 2021-09-30 20:26:56
  */
-function Lin({
+function Linv({
     template,
     data,
     el
@@ -16,8 +16,9 @@ function Lin({
     })
     dom.innerHTML = template
 }
-window.Lin = Lin
-    // export default Lin
+window.Linv = Linv
+module.export = Linv
+export default Linv
 
 /* usage:
     new Lin({
