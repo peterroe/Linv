@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "jest": "^27.2.4",
     "webpack": "^5.55.1",
     "webpack-cli": "^4.8.0"
   }
