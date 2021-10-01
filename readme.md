@@ -7,7 +7,7 @@
 -->
 ## What is Linv?
 
-:rocket: a micro framwork like Vue :zap: 
+:rocket: a micro framework like Vue :zap: 
 
 ## Install
 
