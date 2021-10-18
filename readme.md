@@ -25,6 +25,7 @@ new Linv({
     data: {
         name: 'Peter Roe',
         age: 23,
+        hobby: ['swiming','football','running']
     },
     template: `
         <div>姓名：{name}</div>
